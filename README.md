@@ -17,5 +17,5 @@
 开发工具：前端（vscode) ,后台 （idea 2018）
 
 员工端：
-web端：https://github.com/v1009/oa-web.git
-接口端：https://github.com/v1009/oa-jk.git
+web地址：https://github.com/v1009/oa-web.git
+接口地址：https://github.com/v1009/oa-jk.git
